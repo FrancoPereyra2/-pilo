@@ -1,0 +1,45 @@
+body
+{
+ background-color: rgb(0, 247, 255);
+}
+h1
+{
+    margin-left: 25%;
+    color: rgb(0, 0, 0);
+}
+
+label
+{
+    margin-left: 35%;
+}
+
+#nombre
+{
+ margin-left: 35%;
+ border-radius: 13px;
+}
+#patente
+{
+ 
+    margin-left: 35%;
+ border-radius: 13px;
+}
+#precio
+{
+ margin-left: 35%;
+ border-radius: 13px;
+}
+#select
+{
+    margin-left: 35%;
+    border-radius: 60%;
+}
+#boton
+{
+    
+    margin-left: 35%;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
